@@ -1,2 +1,6 @@
 [developpement] 
 192.168.43.16 ansible_user=root
+[developpement:vars]
+mysql_user=eleve
+mysql_password=btsinfo
+mysql_db=bdeleve
